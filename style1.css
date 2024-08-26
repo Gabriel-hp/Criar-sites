@@ -78,15 +78,16 @@ header{
 
     font-family: 'Poppins', sans-serif;
    color: rgb(53, 53, 53);
-    font-size: 50px;
+    font-size: 35px;
     font-weight: bold;
-    line-height: 155.7%; /* 186.84px    */
+    line-height: 120%; /* 186.84px    */
     letter-spacing: 25px;
     text-transform: uppercase;
 
  }
 
  .produtos{
+    margin-top: 25px;
     display: flex;
     flex-direction: row;
     gap: 0px;
@@ -223,7 +224,7 @@ header{
   .img-prod {
     width: 300px;
     height: 175px;
-    background-color: #359381;
+
   }
 
    .mobile{
@@ -243,7 +244,7 @@ header{
  .ofe .quad{
     width: 300px;
     height: 200px;
-    background-color: #359381;
+
  }
 
  .ofe p{
